@@ -45,8 +45,8 @@ footer {
     src: url(../fonts/MtfHeartDoodle-Po5E.ttf);
 }
 
-.elona {
-    font-family: elonaFont !important;
+.matteo {
+    font-family: matteoFont !important;
     font-size: 3em;
 
 }
@@ -55,11 +55,11 @@ footer {
     min-height: 67px;
 }
 
-.navbar .elona {
+.navbar .matteo {
     margin: auto;
 }
 
-#kaartje .elona {
+#kaartje .matteo {
     font-size: 5em;
     margin-top: 20px !important;
 }
